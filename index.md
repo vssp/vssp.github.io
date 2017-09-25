@@ -2,7 +2,7 @@
 
 This GI-Dagstuhl seminar addresses the problem of visualizing performance-related data of systems and the software that they run. Due to the scale of performance-related data and the open-ended nature of analyzing it, visualization is often the only feasible way to comprehend, improve, and debug the performance behavior of systems. The rise of cloud and big data systems, and the rapidly growing scale of the performance-related data that they generate, have led to an increased need for visualization of such data. However, the research communities behind data visualization, performance engineering, and high-performance computing are largely disjunct. The goal of this seminar is to bring together young researchers from these research areas to identify cross-community collaboration and to set the path for long-lasting collaborations towards rich and effective visualizations of performance-related data.
 
-VSSP '18 will take place from July 8 until July 13, 2018, in Dagstuhl, Germany.
+VSSP '18 will take place from July 8 until July 13, 2018, in Dagstuhl, Germany. VSSP '18 is listed on the Dagstuhl [website](http://www.dagstuhl.de/no_cache/en/program/calendar/evhp/?semnr=18283).
 
 # Organizers
 - [Fabian Beck](https://www.vis.wiwi.uni-due.de/en/team/fabian-beck/) (Universität Duisburg – Essen, DE)
