@@ -12,6 +12,8 @@ VSSP '18 will take place from July 8 until July 13, 2018, in Dagstuhl, Germany.
 
 # Participants
 
+*The list of participants is currently being formed. Around 30 participants are expected*
+
 # Program
 
 *Program will be announced begining of June 2018*
