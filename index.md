@@ -9,6 +9,15 @@ The main goal of the VSSP '18 is to bring together young researchers (PhD studen
 
 VSSP '18 will take place from July 8 until July 13, 2018, in Dagstuhl, Germany. [Schloss Dagstuhl – Leibniz Center for Informatics](http://www.dagstuhl.de/en/about-dagstuhl/) is a castle situated at the scenic countryside of Saarland. It is a world-renowned meeting place for computer scientists. We are honored to be hosted by Schloss Dagstuhl and supported to bring together young researchers from different disciplines. The seminar is sponsored by the [GI](https://www.gi.de/) and Schloss Dagstuhl - participants pay only 50 EUR per night for accomodation/full board. VSSP '18 is officially listed on the Dagstuhl [website](http://www.dagstuhl.de/no_cache/en/program/calendar/evhp/?semnr=18283).
 
+<p style="text-align: center; widthL: 100%;">
+<a href="https://www.gi.de/">
+<img src="https://www.gi.de/fileadmin/redaktion/GI-Logos/GI-Logo_Q2012_RGB.jpg" height="112" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="http://www.dagstuhl.de/en/about-dagstuhl/">
+<img src="https://www.dagstuhl.de/fileadmin/assets/images/lzi_logo.gif" />
+</a>
+</p>
+
 # Organizers
 - [Fabian Beck](https://www.vis.wiwi.uni-due.de/en/team/fabian-beck/) (Universität Duisburg–Essen - Essen, DE)
 - [Alexandre Bergel](http://bergel.eu) (University of Chile – Santiago de Chile, CL)
