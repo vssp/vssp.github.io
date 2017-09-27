@@ -1,3 +1,3 @@
-Website of the Dagstuhl seminar on Visualizing Systems and Software Performance (VSSP)
+Website of the GI-Dagstuhl seminar, July 8 - 13, 2018
 
 The website is accessible [online](https://vssp.github.io)
