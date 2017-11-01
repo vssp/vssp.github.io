@@ -26,7 +26,7 @@ VSSP '18 will take place from July 9 until July 13 (Mon - Fri), 2018, in Dagstuh
  
 # Call for participation
 
-*Our call for participation is now [online](call.md)!
+*Our call for participation is now [online](call.md)!*
  
 # Participants
 
