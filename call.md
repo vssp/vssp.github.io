@@ -1,7 +1,6 @@
 # Call for Applications
 
-## GI Dagstuhl Seminar on "Visualizing Systems and Software Performance"
-## https://vssp.github.io/
+## [GI Dagstuhl Seminar on "Visualizing Systems and Software Performance"](https://vssp.github.io/)
 
 July 9-13, 2018
 Schloss Dagstuhl, Wadern, Germany
@@ -18,7 +17,7 @@ The seminar will be divided into two parts: (i) The first two days of the semina
 GI-Dagstuhl Seminars are sponsored by the Gesellschaft für Informatik e.V. Accommodation and full board is 50 EUR per person and day (250 EUR total), excluding travel to Dagstuhl.
 
 Applications to the seminar will be collected via Easychair 
-(https://easychair.org/conferences/?conf=vssp2018)
+([https://easychair.org/conferences/?conf=vssp2018](https://easychair.org/conferences/?conf=vssp2018))
 
 Applications are evaluated by the organizers of the seminar. To apply, please upload a single PDF file containing:
 
