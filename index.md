@@ -23,7 +23,11 @@ VSSP '18 will take place from July 9 until July 13 (Mon - Fri), 2018, in Dagstuh
 - [Alexandre Bergel](http://bergel.eu) (University of Chile – Santiago de Chile, CL)
 - [Cor-Paul Bezemer](http://sailhome.cs.queensu.ca/~corpaul/) (Queen's University – Kingston, CA)
 - [Katherine E. Isaacs](http://hdc.cs.arizona.edu/mamba_home/~kisaacs) (University of Arizona – Tucson, US)
+ 
+# Call for participation
 
+*Our call for participation is now [online](call.md)!
+ 
 # Participants
 
 *The list of participants is currently being formed. Around 30 participants are expected*
