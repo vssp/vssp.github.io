@@ -24,7 +24,7 @@ VSSP '18 will take place from July 9 until July 13 (Mon - Fri), 2018, in Dagstuh
 - [Cor-Paul Bezemer](http://sailhome.cs.queensu.ca/~corpaul/) (Queen's University – Kingston, CA)
 - [Katherine E. Isaacs](http://hdc.cs.arizona.edu/mamba_home/~kisaacs) (University of Arizona – Tucson, US)
  
-# Call for participation
+# Call for applications
 
 *Our call for applications is now [online](call.md)!*
  
