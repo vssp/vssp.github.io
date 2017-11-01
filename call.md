@@ -42,5 +42,5 @@ The organizers,
 - [Fabian Beck](https://www.vis.wiwi.uni-due.de/en/team/fabian-beck/) (Universität Duisburg–Essen - Essen, DE)
 - [Alexandre Bergel](http://bergel.eu) (University of Chile – Santiago de Chile, CL)
 - [Cor-Paul Bezemer](http://sailhome.cs.queensu.ca/~corpaul/) (Queen's University – Kingston, CA)
-- [Katherine E. Isaacs](http://hdc.cs.arizona.edu/mamba_home/~kisaacs) (University of Arizona – Tucson, US)
+- [Katherine E. Isaacs](http://hdc.cs.arizona.edu/people/kisaacs/) (University of Arizona – Tucson, US)
 
