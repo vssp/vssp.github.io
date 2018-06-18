@@ -73,9 +73,6 @@ Tentative program:
 <tr>
 	<td>18:00</td><td>Dinner</td>
 </tr>
-</table>
-
-<table>
 <tr>
 	<th colspan="2">Monday July 9</th>
 </tr>
@@ -106,10 +103,6 @@ Tentative program:
 <tr>
 	<td>18:00</td><td>Dinner</td>
 </tr>
-</table>
-
-
-<table>
 <tr>
 	<th colspan="2">Tuesday July 10</th>
 </tr>
