@@ -65,10 +65,10 @@ Tentative program:
 
 <table>
 <tr>
-	<th colspan=2>Sunday July 8</th>
+	<th colspan="2">Sunday July 8</th>
 </tr>
 <tr>
-	<td width=50>15:30</td><td width=500>Coffee & Cake</td>
+	<td width="50">15:30</td><td width="500">Coffee & Cake</td>
 </tr>
 <tr>
 	<td>18:00</td><td>Dinner</td>
@@ -77,10 +77,10 @@ Tentative program:
 
 <table>
 <tr>
-	<th colspan=2>Monday July 9</th>
+	<th colspan="2">Monday July 9</th>
 </tr>
 <tr>
-	<td width=50>9:00</td><td width=500>Intro & overview</td>
+	<td width="50">9:00</td><td width="500">Intro & overview</td>
 </tr>
 <tr>
 	<td>9:30</td><td>Icebreaker</td>
@@ -111,10 +111,10 @@ Tentative program:
 
 <table>
 <tr>
-	<th colspan=2>Tuesday July 10</th>
+	<th colspan="2">Tuesday July 10</th>
 </tr>
 <tr>
-	<td width=50>9:00</td><td width=500>Tutorial: State of the Art of Visualization in APM Tools<br />
+	<td width="50">9:00</td><td width="500">Tutorial: State of the Art of Visualization in APM Tools<br />
 		(André van Hoorn & Dušan Okanović)</td>
 </td>
 </tr>
@@ -141,10 +141,10 @@ Tentative program:
 
 <table>
 <tr>
-	<th colspan=2>Wednesday July 11</th>
+	<th colspan="2">Wednesday July 11</th>
 </tr>
 <tr>
-	<td width=50>9:00</td><td width=500>Tutorial: Tracing and Profiling in HPC<br />
+	<td width="50">9:00</td><td width="500">Tutorial: Tracing and Profiling in HPC<br />
 		(Marc-André Hermanns & David Böhme)</td>
 </td>
 </tr>
@@ -171,10 +171,10 @@ Tentative program:
 
 <table>
 <tr>
-	<th colspan=2>Thursday July 12</th>
+	<th colspan="2">Thursday July 12</th>
 </tr>
 <tr>
-	<td width=50>9:00</td><td width=500>Tutorial: Scalable HPC Visualization and Data Analysis Using VisIt<br />
+	<td width="50">9:00</td><td width="500">Tutorial: Scalable HPC Visualization and Data Analysis Using VisIt<br />
 		(Kevin Griffin)</td>
 </td>
 </tr>
@@ -203,10 +203,10 @@ Tentative program:
 
 <table>
 <tr>
-	<th colspan=2>Friday July 13</th>
+	<th colspan="2">Friday July 13</th>
 </tr>
 <tr>
-	<td width=50>9:00</td><td width=500>Breakout reports</td>
+	<td width="50">9:00</td><td width="500">Breakout reports</td>
 </td>
 </tr>
 <tr>
