@@ -11,7 +11,7 @@ VSSP '18 will take place from July 9 until July 13 (Mon - Fri), 2018, in Dagstuh
 
 <p style="text-align: center; widthL: 100%;">
 <a href="https://www.gi.de/">
-<img src="https://www.gi.de/fileadmin/redaktion/GI-Logos/GI-Logo_Q2012_RGB.jpg" height="112" />
+<img src="https://dagstuhl.gi.de/fileadmin/GI/Allgemein/Logos/GI_Logo_links.png" height="112" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="http://www.dagstuhl.de/en/about-dagstuhl/">
 <img src="https://www.dagstuhl.de/fileadmin/assets/images/lzi_logo.gif" />
