@@ -30,9 +30,199 @@ VSSP '18 will take place from July 9 until July 13 (Mon - Fri), 2018, in Dagstuh
  
 # Participants
 
-*The list of participants is currently being formed. Around 30 participants are expected*
+David Arcelli (University of L'Aquila, Italy)  
+Fabian Beck	(University of Duisburg-Essen, Germany)  
+Alexandre Bergel (University of Chile, Chile)  
+Cor-Paul Bezemer (University of Alberta, Canada)  
+Abhinav Bhatele (Lawrence Livermore National Laboratory, US)  
+David Boehme (Lawrence Livermore National Laboratory, US)  
+Jinfu Chen (Concordia University, Canada)  
+Diego Costa	(Heidelberg University, Germany)  
+Sarah Goodwin (Monash University, Australia)  
+Patrick Gralka (University of Stuttgart, Germany)  
+Kevin Griffin (LLNL/University of California, US)  
+Marc-Andre Hermanns	(Jlich Supercomputing Centre, Germany)  
+Katherine Isaacs (University of Arizona, US)  
+Angelina Lee (Washington University, US)  
+Philipp Leitner	(Chalmers, Sweden)  
+Xu Liu	Xu (William & Mary, US)  
+Leonel Merino (University of Bern, Switzerland)  
+Oliver Moseler (University of Trier, Germany)  
+Chris Muelder (University of California, Davis, US / Google)  
+Dusan Okanovic (University of Stuttgart, Germany)  
+Olga Pearce	(Lawrence Livermore National Laboratory, US)  
+Paul Rosen	(University of South Florida, US)  
+Juan Pablo Sandoval (Universidad Mayor de San Simon/Universidad Catolica Boliviana, Bolivia)  
+Weiyi Shang	(Concordia University, Canada)  
+Luka Stanisic (Max Planck Computing & Data Facility, Germany)  
+André van Hoorn (University of Stuttgart, Germany)  
+Santiago Vidal (UNICEN University, Argentina)  
+Tom Vierjahn (RWTH Aachen, Germany)  
 
 # Program
 
-*Program will be announced beginning of June 2018*
+Tentative program:
+
+<table>
+<tr>
+	<th colspan=2>Sunday July 8</th>
+</tr>
+<tr>
+	<td width=50>15:30</td><td width=500>Coffee & Cake</td>
+</tr>
+<tr>
+	<td>18:00</td><td>Dinner</td>
+</tr>
+</table>
+
+<table>
+<tr>
+	<th colspan=2>Monday July 9</th>
+</tr>
+<tr>
+	<td width=50>9:00</td><td width=500>Intro & overview</td>
+</tr>
+<tr>
+	<td>9:30</td><td>Icebreaker</td>
+</tr>
+<tr>
+	<td>10:30</td><td>Break</td>
+</tr>
+<tr>
+	<td>11:00</td><td>Research lightning intros</td>
+</tr>
+<tr>
+	<td>12:00</td><td>Lunch</td>
+</tr>
+<tr>
+	<td>14:00</td><td>Small group schedule planning</td>
+</tr>
+<tr>
+	<td>15:00</td><td>Combine group findings into breakout schedule</td>
+</tr>
+<tr>
+	<td>17:00</td><td>Free time</td>
+</tr>
+<tr>
+	<td>18:00</td><td>Dinner</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+	<th colspan=2>Tuesday July 10</th>
+</tr>
+<tr>
+	<td width=50>9:00</td><td width=500>Tutorial: State of the Art of Visualization in APM Tools<br />
+		(André van Hoorn & Dušan Okanović)</td>
+</td>
+</tr>
+<tr>
+	<td>10:00</td><td>Break</td>
+</tr>
+<tr>
+	<td>10:30</td><td>Breakout groups</td>
+</tr>
+<tr>
+	<td>12:00</td><td>Lunch</td>
+</tr>
+<tr>
+	<td>14:00</td><td>Breakout groups</td>
+</tr>
+<tr>
+	<td>17:00</td><td>Free time</td>
+</tr>
+<tr>
+	<td>18:00</td><td>Dinner</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+	<th colspan=2>Wednesday July 11</th>
+</tr>
+<tr>
+	<td width=50>9:00</td><td width=500>Tutorial: Tracing and Profiling in HPC<br />
+		(Marc-André Hermanns & David Böhme)</td>
+</td>
+</tr>
+<tr>
+	<td>10:30</td><td>Break</td>
+</tr>
+<tr>
+	<td>11:00</td><td>Breakout reports</td>
+</tr>
+<tr>
+	<td>12:00</td><td>Lunch</td>
+</tr>
+<tr>
+	<td>14:00</td><td>Excursion: Trier</td>
+</tr>
+<tr>
+	<td>17:00</td><td>Free time</td>
+</tr>
+<tr>
+	<td>18:00</td><td>Dinner</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+	<th colspan=2>Thursday July 12</th>
+</tr>
+<tr>
+	<td width=50>9:00</td><td width=500>Tutorial: Scalable HPC Visualization and Data Analysis Using VisIt<br />
+		(Kevin Griffin)</td>
+</td>
+</tr>
+<tr>
+	<td>10:00</td><td>Break</td>
+</tr>
+<tr>
+	<td>10:30</td><td>Second round breakout groups</td>
+</tr>
+<tr>
+	<td>12:00</td><td>Lunch</td>
+</tr>
+<tr>
+	<td>14:00</td><td>Second round breakout groups</td>
+</tr>
+<tr>
+	<td>16:30</td><td>Breakout writing</td>
+</tr>
+<tr>
+	<td>17:00</td><td>Free time</td>
+</tr>
+<tr>
+	<td>18:00</td><td>Dinner</td>
+</tr>
+</table>
+
+<table>
+<tr>
+	<th colspan=2>Friday July 13</th>
+</tr>
+<tr>
+	<td width=50>9:00</td><td width=500>Breakout reports</td>
+</td>
+</tr>
+<tr>
+	<td>10:00</td><td>Break</td>
+</tr>
+<tr>
+	<td>10:30</td><td>Opportunities & challenges</td>
+</tr>
+<tr>
+	<td>11:30</td><td>Future planning</td>
+</tr>
+<tr>
+	<td>12:00</td><td>Lunch</td>
+</tr>
+<tr>
+	<td>14:00</td><td>Wrap up / open program</td>
+</tr>
+</table>
 
