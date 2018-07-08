@@ -26,7 +26,7 @@ VSSP '18 will take place from July 9 until July 13 (Mon - Fri), 2018, in Dagstuh
  
 # Call for applications
 
-*Our call for applications is now [online](call.md)!*
+*Our call for applications is now [closed](call.md)!*
  
 # Participants
 
@@ -92,10 +92,15 @@ Tentative program:
 	<td>12:00</td><td>Lunch</td>
 </tr>
 <tr>
-	<td>14:00</td><td>Small group schedule planning</td>
+	<td>14:00</td><td>Breakout groups topic selection</td>
 </tr>
 <tr>
-	<td>15:00</td><td>Combine group findings into breakout schedule</td>
+	<td>14:30</td><td>Informal topic selection presentation by the moderators of each group</td>
+<tr>
+	<td>15:00</td><td>Define groups and group deliverables for Tuesday</td>
+</tr>
+<tr>
+	<td>16:30</td><td>Share breakout discussion (and choose group for Tuesday)</td>
 </tr>
 <tr>
 	<td>17:00</td><td>Free time</td>
