@@ -96,6 +96,7 @@ Tentative program:
 </tr>
 <tr>
 	<td>14:30</td><td>Informal topic selection presentation by the moderators of each group</td>
+</tr>
 <tr>
 	<td>15:00</td><td>Define groups and group deliverables for Tuesday</td>
 </tr>
