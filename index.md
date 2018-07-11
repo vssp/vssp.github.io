@@ -30,7 +30,7 @@ VSSP '18 will take place from July 9 until July 13 (Mon - Fri), 2018, in Dagstuh
  
 # Participants
 
-David Arcelli (University of L'Aquila, Italy)  
+Davide Arcelli (University of L'Aquila, Italy)  
 Fabian Beck	(University of Duisburg-Essen, Germany)  
 Alexandre Bergel (University of Chile, Chile)  
 Cor-Paul Bezemer (University of Alberta, Canada)  
